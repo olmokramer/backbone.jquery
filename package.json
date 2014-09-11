@@ -1,0 +1,10 @@
+{
+  "name": "backbone.jquery",
+  "main": "backbone.jquery",
+  "version": "1.0.0",
+  "description": "Add $ to Backbone for node-based browser environments",
+  "repository": "https://github.com/olmokramer/backbone.jquery",
+  "dependencies": {
+    "backbone": "^1.1.2"
+  }
+}
